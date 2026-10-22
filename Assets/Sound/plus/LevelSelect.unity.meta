@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7182ad097735be1438832a8d72d0df40
+timeCreated: 1505658564
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 102180
+  packageName: 2D Platformer - Innovative Dimensions
+  packageVersion: 2.0
+  assetPath: Assets/2D Dimensions/Scenes/LevelSelect.unity
+  uploadId: 369078

@@ -1,0 +1,54 @@
+# Unity 자동 생성 폴더·파일
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/.vs/
+/.plastic/
+.vsconfig
+*.csproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.pidb
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.unitypackage
+*.unitypackage.meta
+*.zip
+ignore.conf
+/_backup_scripts/
+
+# 외부 에셋 (README 참고)
+/Assets/Sprites/
+/Assets/Sprites.meta
+/Assets/Environment/
+/Assets/Environment.meta
+/Assets/Tiles/
+/Assets/Tiles.meta
+/Assets/Cainos/
+/Assets/Cainos.meta
+/Assets/2D_Ddemensions/
+/Assets/2D_Ddemensions.meta
+/Assets/RPG Button 7/
+/Assets/RPG Button 7.meta
+/Assets/Audio/
+/Assets/Audio.meta
+/Assets/Sound/plus/LevelSelectPanel.jpg
+/Assets/Sound/plus/LevelSelectPanel.jpg.meta
+/Assets/_Recovery/
+/Assets/_Recovery.meta
+
+# 소리 파일 (외부 소스를 가공한 것이라 제외)
+*.mp3
+*.mp3.meta
+*.wav
+*.wav.meta
+*.ogg
+*.ogg.meta

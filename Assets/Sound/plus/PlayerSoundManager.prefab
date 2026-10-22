@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1136652764449753826
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2945353339506296592}
+  - component: {fileID: 7903155098018601917}
+  m_Layer: 0
+  m_Name: PlayerSoundManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2945353339506296592
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1136652764449753826}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 146.11104, y: -8.11892, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7903155098018601917
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1136652764449753826}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 11703057c8edd0f40b2c33b5663b155b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::PlayerSoundManager
+  sfxSource: {fileID: 0}
+  walkClip: {fileID: 8300000, guid: 711522e6da9d10a46a991f62e8fe878c, type: 3}
+  rollClip: {fileID: 8300000, guid: 32226bcdbe240844d9e7b393edcbee64, type: 3}
+  landClip: {fileID: 0}
+  jumpClip: {fileID: 8300000, guid: 32226bcdbe240844d9e7b393edcbee64, type: 3}
+  doubleJumpClip: {fileID: 8300000, guid: 32226bcdbe240844d9e7b393edcbee64, type: 3}
+  attack1Clip: {fileID: 8300000, guid: 833518e87d965b04187ac55d96709e6b, type: 3}
+  attack2Clip: {fileID: 8300000, guid: 833518e87d965b04187ac55d96709e6b, type: 3}
+  attack3Clip: {fileID: 8300000, guid: 3ffae58904d6964499ecadbc60dd4104, type: 3}
+  attack4Clip: {fileID: 8300000, guid: fff5298728a5b054a8e600b35e8dfb7e, type: 3}
+  rightClickAttackClip: {fileID: 8300000, guid: f0fffd06d5de33745892f9f2440eee4c,
+    type: 3}
+  stabClip: {fileID: 8300000, guid: ba283803c25fabf4ca0188a7a67f163a, type: 3}
+  parryClip: {fileID: 8300000, guid: d2e97028da6fcee45bcb2c59e1071cf4, type: 3}
+  hitClip: {fileID: 8300000, guid: d366297b88cc7a24cac123877b6bd6ee, type: 3}
+  deathClip: {fileID: 8300000, guid: 8e2902388f420984da75061e4890cc66, type: 3}
