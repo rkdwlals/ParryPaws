@@ -45,8 +45,6 @@ Assets/
 
 ## Claude가 수정한 부분
 
-아래는 2026년 10월 포트폴리오 영상 녹화 전에 Claude(AI)가 고친 부분입니다.
-
 - `CrowArcherController.cs`, `NinjaEnemyController.cs`: 적이 죽은 뒤 콜라이더를 끄고, 까마귀 시체가 사라지게 함
 - `PlayerSoundManager.cs`: 소리가 찢어지지 않도록 클립별 볼륨 조정
 
